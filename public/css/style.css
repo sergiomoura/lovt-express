@@ -3,17 +3,17 @@ body {
     padding: 0;
 }
 
-h1 {
+header {
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.25);
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1{
     margin: 0;
-    padding: 0;
-    background-color: brown;
 }
 
-nav>a:first-child {
-    color: red;
-    text-decoration: none;
-}
 
-#link-contato{
-    font-style: italic;
+header p {
+    margin: 0;
 }
