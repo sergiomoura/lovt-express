@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    background-color: brown;
+}
+
+nav>a:first-child {
+    color: red;
+    text-decoration: none;
+}
+
+#link-contato{
+    font-style: italic;
+}
